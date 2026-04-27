@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ex10 Unit Converter</string>
+    <string-array name="conversions">
+        <item>Inches to Centimeters</item>
+        <item>Feet to Meters</item>
+        <item>Miles to Kilometers</item>
+        <item>Pounds to Kilograms</item>
+    </string-array>
+</resources>

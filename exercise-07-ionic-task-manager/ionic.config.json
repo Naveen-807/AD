@@ -1,0 +1,7 @@
+{
+  "name": "exercise-07-ionic-task-manager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -2,6 +2,73 @@
 
 This file gives **easy, copy-paste, working code** for each exercise in your index.
 
+## Clone and Run (Project Folders)
+
+This repository now contains **separate folders for each exercise**.
+
+### Folder List
+
+1. `exercise-01-android-button-style`
+2. `exercise-02-android-calculator`
+3. `exercise-03-android-notification`
+4. `exercise-04-android-library-management`
+5. `exercise-05-cordova-login`
+6. `exercise-06-cordova-location`
+7. `exercise-07-ionic-task-manager`
+8. `exercise-08-react-native-bmi`
+9. `exercise-09-flutter-expense-manager`
+10. `exercise-10-android-unit-converter`
+11. `exercise-11-android-lost-found`
+
+### Run Instructions by Stack
+
+#### Android folders (1, 2, 3, 4, 10, 11)
+
+1. Open the specific folder in Android Studio.
+2. Wait for Gradle sync.
+3. Run on emulator/device.
+
+#### Cordova folders (5, 6)
+
+```bash
+cd exercise-05-cordova-login
+cordova platform add android
+cordova run android
+```
+
+```bash
+cd exercise-06-cordova-location
+cordova platform add android
+cordova run android
+```
+
+#### Ionic folder (7)
+
+```bash
+cd exercise-07-ionic-task-manager
+npm install
+ionic serve
+```
+
+#### React Native (Expo) folder (8)
+
+```bash
+cd exercise-08-react-native-bmi
+npm install
+npm run android
+```
+
+#### Flutter folder (9)
+
+```bash
+cd exercise-09-flutter-expense-manager
+flutter create .
+flutter pub get
+flutter run
+```
+
+---
+
 ## Quick Index (Aligned for GitHub)
 
 | Ex.No | Exercise | Stack |
