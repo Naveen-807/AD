@@ -6,6 +6,20 @@ This file gives **easy, copy-paste, working code** for each exercise in your ind
 
 This repository now contains **separate folders for each exercise**.
 
+### One-Command Runner (from repo root)
+
+After cloning, run any exercise with one command:
+
+```bash
+./run-exercise.sh <exercise-number>
+```
+
+Example:
+
+```bash
+./run-exercise.sh 7
+```
+
 ### Folder List
 
 1. `exercise-01-android-button-style`
